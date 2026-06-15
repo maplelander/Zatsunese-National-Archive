@@ -18,4 +18,4 @@ The **Zatsunese Royal Archive (ZRA)** is the successor to the former Zatsunese N
 ---
 
 ## Contribution
-Official contribution follows by authorized Zatsunese lawmakers.
+Official contribution follows by authorized contributors.

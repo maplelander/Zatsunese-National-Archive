@@ -14,3 +14,8 @@ The **Zatsunese Royal Archive (ZRA)** is the successor to the former Zatsunese N
 - [**Community Conduct Standards**](archive/documents/Community%20Conduct%20Standards/Community%20Conduct%20Standards.md)
 
 - [**National Symbols**](archive/media/Kingdom%20of%20Zatsunei/Important/National%20Symbols)
+
+---
+
+## Contribution
+Official contribution follows by authorized contributors.

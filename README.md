@@ -9,11 +9,9 @@ The **Zatsunese Royal Archive (ZRA)** is the successor to the former Zatsunese N
 
 ---
 
-## Important & Notable Links
-
-- [**Community Conduct Standards**](archive/documents/Community%20Conduct%20Standards/Community%20Conduct%20Standards.md)
-
-- [**National Symbols**](archive/media/Kingdom%20of%20Zatsunei/Important/National%20Symbols)
+## Zatsunese Legislation Easy-Access Hub
+Use the ZLEAH to access and cite legislation from a reliable point.
+https://trello.com/b/37aLuXax/zleah-zatsunese-legislation-easy-access-hub
 
 ---
 
